@@ -12,6 +12,7 @@
  * 1. while ((*dest++ = *src++) != '\0');
  * 2. <string.h> -> strcpy();
  * */
+
 #include <stdio.h>
 #include <string.h>
 
