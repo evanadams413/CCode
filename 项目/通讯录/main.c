@@ -16,7 +16,7 @@ int main() {
     int x;
     char ch;
     tip();
-    while (true) {
+    while (1) {
         scanf("%d", &x);
         switch (x) {
         case 1:
